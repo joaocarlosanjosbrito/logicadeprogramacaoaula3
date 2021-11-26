@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;0,700;1,400;1,700&display=swap');
+.main {
+    /* background-color: rgb(26, 221, 228); */
+    color: rgb(238, 236, 243);
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    /* box-shadow: 0px 0px 4px rgb(18, 171, 218); */
+    margin: 0 auto;
+    padding: 50px;
+    
+}
+
+body {
+
+    background:url('https://midia.gruposinos.com.br/_midias/jpg/2019/12/31/altas_temperaturas_calor_intenso-18751118.jpg');
+}
+
+
+.hox{
+    margin-bottom: 20px;
+    /* background-color: rgb(228, 134, 26); */
+    border-radius: 50px;
+    background-image: 20px;
+    
+    
+}
+.campo input {
+    text-align: center;
+    box-shadow: 0px 0px 4px rgb(49, 159, 211);
+    padding: 10px;
+    width: 320px;
+    border-radius: 100px;
+    border: 50px;
+}
+
+ 
+
+
+
+
+
+
+
+
+
